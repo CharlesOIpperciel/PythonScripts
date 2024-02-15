@@ -13,10 +13,7 @@ Welcome! Here you'll find a collection of Python scripts designed to automate va
         2. Make sure to install the right Pillow version for your Python version. ```python3 -m pip install Pillow```
         3. Clone or download this repository.
         4. Navigate to the directory containing the `image_resizer.py` script.
-        5. Run the script by executing the following command:
-            ```bash
-            python image_resizer.py
-            ```
+        5. Run the script by executing the following command:```bash python image_resizer.py```
         6. Follow the on-screen prompts:
             - Enter the name of the folder containing the images you want to resize.
             - Enter the desired width and height for the resized images.
