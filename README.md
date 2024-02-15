@@ -20,3 +20,7 @@ Welcome! Here you'll find a collection of Python scripts I designed to automate 
             - Enter the desired width and height for the resized images.
     - The resized images will be saved in a new folder named `<original_folder_name>_resized` in the same directory as the script.
 
+
+# Contact
+
+For questions, please contact: ippc2001@usherbrooke.ca
