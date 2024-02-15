@@ -10,7 +10,7 @@ Welcome! Here you'll find a collection of Python scripts designed to automate va
     - This script takes images from a specified folder, resizes them to the desired dimensions, and saves the resized images to a new folder.
     - **How to Run:**
         1. Ensure you have Python installed on your system.
-        2. Install the required libraries using `pip install Pillow`.
+        2. Make sure to install the right Pillow version for your Python version. ```python3 -m pip install Pillow```
         3. Clone or download this repository.
         4. Navigate to the directory containing the `image_resizer.py` script.
         5. Run the script by executing the following command:
