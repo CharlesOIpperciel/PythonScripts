@@ -14,13 +14,26 @@ Welcome! Here you'll find a collection of Python scripts I designed to automate 
         2. Make sure to install the right Pillow version for your Python version. ```python3 -m pip install Pillow```
         3. Clone or download this repository.
         4. Navigate to the directory containing the `image_resizer.py` script.
-        5. Run the script by executing the following command:```bash python image_resizer.py```
+        5. Run the script by executing the following command:```bash python3 image_resizer.py```
         6. Follow the on-screen prompts:
             - Enter the name of the folder containing the images you want to resize.
             - Enter the desired width and height for the resized images.
     - The resized images will be saved in a new folder named `<original_folder_name>_resized` in the same directory as the script.
+ 
+- **Youtube Video Downloader**
+    - This script allows you to download videos from YouTube using their URLs. It utilizes the Pytube library for video downloading.
+    - **How to Run:**
+        1. Ensure you have Python installed on your system.
+        2. Install the right Pytube library for your system by running: ```pip3 install pytube```.
+        3. Clone or download this repository.
+        4. Navigate to the directory containing the `youtube_downloader.py` script.
+        5. Run the script by executing the following command: ```python3 youtube_video_downloader.py```.
+        6. Follow the on-screen prompts:
+            - Enter the YouTube URL of the video you want to download.
+            - Select the directory where you want to save the downloaded video.
+    - The downloaded video will be saved in the specified directory.
 
-
+  
 # Contact
 
 For questions, please contact: ippc2001@usherbrooke.ca
