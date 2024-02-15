@@ -19,6 +19,11 @@ def createOutFolder(dirOut):
         os.makedirs(dirOut)
 
 
+def setPathOut(dirIn):
+    dirOut = './' + dirIn + '_resized'
+    return dirOut
+
+
 def resizeImages(dirIn, dirOut, pixel1, pixel2):
     print("\nResizing images... \n")
     for filename in os.listdir(dirIn):
@@ -34,8 +39,7 @@ path = input('Enter your images folder name: ')
 
 checkInFolder(path)
 checkIfEmpty(path)
-
-pathOut = './' + path + '_resized'
+pathOut = setPathOut(path)
 
 firstParam = input('Enter desired 1st pixel parameter : ')
 secondParam = input('Enter desired 2nd pixel parameter: ')
