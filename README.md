@@ -31,6 +31,9 @@ Welcome! Here you'll find a collection of Python scripts I designed to automate 
         6. Follow the on-screen prompts:
             - Enter the YouTube URL of the video you want to download.
             - Select the directory where you want to save the downloaded video.
+        7. If you have a SSL certificate error:
+           - Run ```sudo pip install --upgrade certifi``` in your terminal.
+           - Then ```/Applications/Python\ 3.[YOUR VERSION]/Install\ Certificates.command```.
     - The downloaded video will be saved in the specified directory.
 
   
