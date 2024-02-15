@@ -1,7 +1,7 @@
 # Automation Python Scripts
 
 <p align="justify">
-Welcome! Here you'll find a collection of Python scripts I designed to automate various tasks across different domains. Automation is a key aspect of modern software development and operational workflows, and these scripts aim to streamline repetitive tasks, enhance efficiency, and reduce manual intervention.
+Welcome! Here you'll find a collection of Python scripts I designed to automate various tasks across different domains. Automation is a key aspect of modern software development and operational workflows, and these scripts aim to streamline repetitive tasks, enhance efficiency, and reduce manual intervention. For questions, please contact: ippc2001@usherbrooke.ca
 </p>
 
 
@@ -20,7 +20,3 @@ Welcome! Here you'll find a collection of Python scripts I designed to automate 
             - Enter the desired width and height for the resized images.
     - The resized images will be saved in a new folder named `<original_folder_name>_resized` in the same directory as the script.
 
-
-## Contact
-
-For questions, please contact: ippc2001@usherbrooke.ca
