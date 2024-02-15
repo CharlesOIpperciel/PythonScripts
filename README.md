@@ -1,4 +1,4 @@
-# Automation Python Scripts
+# Python Automation Scripts
 
 <p align="justify">
 Welcome! Here you'll find a collection of Python scripts I designed to automate various tasks across different domains. Automation is a key aspect of modern software development and operational workflows, and these scripts aim to streamline repetitive tasks, enhance efficiency, and reduce manual intervention. For questions, please contact: ippc2001@usherbrooke.ca
