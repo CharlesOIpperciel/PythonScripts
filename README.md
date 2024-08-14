@@ -36,6 +36,20 @@ Welcome! Here you'll find a collection of Python scripts I designed to automate 
            - Then ```/Applications/Python\ 3.[YOUR VERSION]/Install\ Certificates.command```.
     - The downloaded video will be saved in the specified directory.
 
+- **Excel Files Merger**
+    - This script allows you to merge two Excel files based on a specified merge type (e.g., inner, outer, left, right, cross).
+    - **How to Run:**
+        1. Ensure you have Python installed on your system.
+        2. Install the required libraries: ```pip install PyQt5 pandas openpyxl```.
+        3. Clone or download this repository.
+        4. Navigate to the directory containing the `excel_file_merger.py` script.
+        5. Run the script by executing the following command: ```python excel_file_merger.py```.
+        6. Follow the on-screen prompts:
+            - Select the first Excel file.
+            - Select the second Excel file.
+            - Choose the merge type from the dropdown menu.
+            - Click the `Merge` button.
+            - Save de merged file to your desired location.
   
 # Contact
 
