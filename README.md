@@ -53,4 +53,4 @@ Welcome! Here you'll find a collection of Python scripts I designed to automate 
   
 # Contact
 
-For questions, please contact: ippc2001@usherbrooke.ca
+For questions, please contact: charlesolivieripperciel@gmail.com
